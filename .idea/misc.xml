@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MAD/clg/MADPractical11_20012021014_1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/MAD/clg/MADPractical11_20012021014_1/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/MAD/clg/MADPractical11_20012021014_1/app/src/main/res/layout/activity_note_view.xml" value="0.18" />
+        <entry key="..\:/MAD/clg/MADPractical11_20012021014_1/app/src/main/res/layout/add_note.xml" value="0.3197278911564626" />
+        <entry key="..\:/MAD/clg/MADPractical11_20012021014_1/app/src/main/res/layout/note_edit_view.xml" value="0.16666666666666666" />
+        <entry key="..\:/MAD/clg/MADPractical11_20012021014_1/app/src/main/res/layout/note_edite_add_form.xml" value="0.18" />
+        <entry key="..\:/MAD/clg/MADPractical11_20012021014_1/app/src/main/res/layout/note_item_view.xml" value="0.18" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical11_20012021014_1/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical11_20012021014_1/app/src/main/res/layout/activity_note_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical11_20012021014_1/app/src/main/res/layout/add_note.xml" value="0.203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
